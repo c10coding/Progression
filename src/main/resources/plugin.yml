@@ -1,0 +1,4 @@
+name: Progression
+version: ${project.version}
+main: net.dohaw.play.progression.Progression
+api-version: 1.13
